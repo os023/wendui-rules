@@ -40,40 +40,38 @@
 
 #### 配色禁止
 
--  紫色/靛蓝色/蓝紫渐变（#6366F1、#8B5CF6）
--  纯平背景色（必须有噪点纹理或渐变）
+- 紫色/靛蓝色/蓝紫渐变（#6366F1、#8B5CF6）
+- 纯平背景色（必须有噪点纹理或渐变）
 - Tailwind 默认色板
 
 #### 布局禁止
 
 - Hero + 三卡片布局
--  完美居中对齐
--  等宽多栏（必须不对称）
+- 完美居中对齐
+- 等宽多栏（必须不对称）
 
 ### 遵守项
 
 #### 图片系统
 
--  图标：使用 Iconify 图标库（https://iconify.design）
--  占位图：使用 Picsum Photos（https://picsum.photos）
--  真实图片：使用 Pexels 搜索（https://www.pexels.com）
--  插画：使用 unDraw（https://undraw.co）
+- 图标：使用 Iconify 图标库（https://iconify.design）
+- 占位图：使用 Picsum Photos（https://picsum.photos）
+- 真实图片：使用 Pexels 搜索（https://www.pexels.com）
+- 插画：使用 unDraw（https://undraw.co）
 
 ## 文案风格
 
 ### 禁止项
 
--  高深的专业名词和无意义的空话
-- Lorem Ipsum 占位文本
--  被动语态和长句
+- 高深的专业名词和无意义的空话
+- 被动语态和长句
 
 ### 遵守项
 
--  口语化，像朋友聊天
--  具体化，有数字和场景
--  可以幽默、自嘲、甚至挑衅
--  每句话不超过 20 个字
-
+- 口语化，像朋友聊天
+- 具体化，有数字和场景
+- 可以幽默、自嘲、甚至挑衅
+- 每句话不超过 20 个字
 - 不要瞎编，多用逗号
 
 ## 创建新的开发项目

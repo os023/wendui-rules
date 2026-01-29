@@ -40,13 +40,13 @@
 
 #### 配色禁止
 
-- 紫色/靛蓝色/蓝紫渐变（#6366F1、#8B5CF6）
-- 纯平背景色（必须有噪点纹理或渐变）
-- Tailwind 默认色板
+- 紫色、靛蓝色、蓝紫渐变
+- 纯平背景色，必须有噪点纹理或渐变
+- Tailwind 默认色板
 
 #### 布局禁止
 
-- Hero + 三卡片布局
+- 三卡片布局
 - 完美居中对齐
 - 等宽多栏（必须不对称）
 
@@ -54,10 +54,10 @@
 
 #### 图片系统
 
-- 图标：使用 Iconify 图标库（https://iconify.design）
-- 占位图：使用 Picsum Photos（https://picsum.photos）
-- 真实图片：使用 Pexels 搜索（https://www.pexels.com）
-- 插画：使用 unDraw（https://undraw.co）
+- 图标：使用 Iconify 图标库
+- 占位图：使用 Picsum Photos
+- 真实图片：使用 Pexels 搜索
+- 插画：使用 unDraw
 
 ## 文案风格
 

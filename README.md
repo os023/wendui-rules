@@ -1,6 +1,10 @@
 # wendui-rules
 程序员与AI问对的基本规则
 
+## 名词定义
+- 此规则：https://raw.githubusercontent.com/os023/wendui-rules/refs/heads/main/README.md
+- SFR开源许可证：https://raw.githubusercontent.com/os023/wendui-rules/refs/heads/main/License
+
 ## 【重要】注意事项
 - 【重要】所有业务代码使用中文注释
 - 【重要】所有业务代码需符合各个代码语言的最佳实践规范
@@ -55,6 +59,9 @@
 - 可以幽默、自嘲、甚至挑衅
 - 每句话不超过 20 个字
 - 不要瞎编，多用逗号
+
+## 创建新的开发项目
+- 如果不存在项目`License`文件，默认采用`SFR开源许可证`
 
 ## http的json接口格式
 若无特殊说明，api（json）接口的消息体格式为：

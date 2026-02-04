@@ -23,11 +23,11 @@
 
 在项目目录的`wendui/`路径下，有以下文件夹，如果不存在，就创建
 
-- `wendui/plans`文件夹用于保存本项目 AI 生成的开发计划，命名为`yyyyMMDD-HHmm-[序号]-[中文主题].plan.md`
-- `wendui/todos`文件夹用于保存项目开发规划，遵循原子操作原则，命名为`yyyyMMDD-HHmm-[序号]-[中文主题].todo.md`
-- `wendui/finished`文件夹用于保存处理完成的`todos`的事项，命名为`yyyyMMDD-HHmm-[序号]-[中文主题].finish.md`
+- `wendui/plans`文件夹用于保存本项目 AI 生成的开发计划，命名为`YYYYMMDD-HHmm-[序号]-[中文主题].plan.md`
+- `wendui/todos`文件夹用于保存项目开发规划，遵循原子操作原则，命名为`YYYYMMDD-HHmm-[序号]-[中文主题].todo.md`
+- `wendui/finished`文件夹用于保存处理完成的`todos`的事项，命名为`YYYYMMDD-HHmm-[序号]-[中文主题].finish.md`
 - `wendui/trees`文件夹用于保存项目源码的一级或二级文件目录树结构，该目录下没有子目录
-- `yyyyMMDD-HHmm`为当前日期的 js 风格格式
+- `YYYYMMDD-HHmm`为当前日期的 js 风格格式，可执行`node -e "console.log(require('dayjs')().format('YYYYMMDD-HHmm'))"`获取
 - 只有必要、重要的程序员与大模型问对记录才保存
 - 特别注意，`000000000-目录结构.md`（九个零文件）保存项目主要目录结构，此文件保持简洁，随项目更新
 
